@@ -7,7 +7,7 @@ import google.generativeai as genai
 import os
 
 # Set your API key
-API_KEY = "AIzaSyBnDVyPT3supANEOBEtywJ7L9I8xRSXwfw"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 print("="*60)
